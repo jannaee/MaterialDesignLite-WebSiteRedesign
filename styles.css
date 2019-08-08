@@ -159,7 +159,7 @@ a img{
   height: 800px;
   width: auto;
   background-color: #f3f3f3;
-  background: url('images/18.svg') center 30% no-repeat;
+  background: url('https://jannaee.github.io/jsick.tech/images/18.svg') center 30% no-repeat;
   background-size: cover;
 }
 
@@ -286,7 +286,7 @@ a img{
 
 .events-section {
   position: relative;
-  background: url('images/14.png') center top no-repeat;
+  background: url('https://jannaee.github.io/jsick.tech/images/14.png') center top no-repeat;
   background-size: cover;
   height: 800px;
 }
@@ -357,7 +357,7 @@ a img{
   }
 
 .customized-section-image {
-  background: url('images/devices.jpg') center top no-repeat;
+  background: url('https://jannaee.github.io/jsick.tech/images/devices.jpg') center top no-repeat;
   background-size: cover;
   height: 400px;
 }
