@@ -419,11 +419,31 @@ a img{
 
 
 /*IMAGE CARD*/
-.awards-card-image.mdl-card {
+.awards-card-image1.mdl-card {
   width: 512px;
   height: 256px;
   background: url('images/rtp-hackathon-banner.jpg') center / cover;
 }
+
+
+
+.awards-card-image2.mdl-card {
+    width: 512px;
+  height: 256px;
+  background: url('images/speaker-allthingsopen-small.png') center/cover;
+}
+
+.awards-card-image1.mdl-card {
+  width: 512px;
+  height: 256px;
+  background: url('images/rtp-hackathon-banner.jpg') center / cover;
+}
+.awards-card-image3.mdl-card {
+  width: 512px;
+  height: 256px;
+  background: url('images/speaker-triangle-talent-forum-small.png') center / cover;
+}
+
 .awards-card-image > .mdl-card__actions {
   height: 52px;
   padding: 16px;
